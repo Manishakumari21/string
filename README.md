@@ -1,6 +1,6 @@
 # string
 Implementation
-```
+```C++
 #include<iostream>
 using namespace std;
 int main(){
@@ -11,7 +11,8 @@ char str[5]={'a','b','c','d','e'};
 }
 ```
 ##ifVowel
-```#include<iostream>
+```C++
+#include<iostream>
 #include<string>
 using namespace std;
 int main(){
