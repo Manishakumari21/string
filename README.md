@@ -1,6 +1,6 @@
 # string
 
-###Implementation
+### Implementation
 ```C++
 #include<iostream>
 using namespace std;
@@ -11,7 +11,7 @@ char str[5]={'a','b','c','d','e'};
    //cout<<str[5];
 }
 ```
-##ifVowel
+## ifVowel
 ```C++
 #include<iostream>
 #include<string>
@@ -28,7 +28,7 @@ int main(){
     cout<<count;
 }
 ```
-##anagram
+## anagram
 ```C++
 #include<iostream>
 #include<string>
