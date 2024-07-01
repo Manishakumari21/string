@@ -1,5 +1,6 @@
 # string
-Implementation
+
+###Implementation
 ```C++
 #include<iostream>
 using namespace std;
